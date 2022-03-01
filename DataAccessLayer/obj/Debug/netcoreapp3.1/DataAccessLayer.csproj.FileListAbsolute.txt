@@ -1,0 +1,13 @@
+D:\Sunil\APILearning\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Sunil\APILearning\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sunil\APILearning\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Sunil\APILearning\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+D:\Sunil\APILearning\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Sunil\APILearning\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+D:\Sunil\APILearning\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Sunil\APILearning\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\Sunil\APILearning\DataAccessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+D:\Sunil\APILearning\DataAccessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+D:\Sunil\APILearning\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+D:\Sunil\APILearning\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Sunil\APILearning\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb

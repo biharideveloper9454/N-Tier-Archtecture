@@ -1,0 +1,13 @@
+D:\Sunil\APILearning\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.AssemblyReference.cache
+D:\Sunil\APILearning\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sunil\APILearning\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+D:\Sunil\APILearning\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+D:\Sunil\APILearning\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
+D:\Sunil\APILearning\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+D:\Sunil\APILearning\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.runtimeconfig.json
+D:\Sunil\APILearning\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.runtimeconfig.dev.json
+D:\Sunil\APILearning\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+D:\Sunil\APILearning\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+D:\Sunil\APILearning\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+D:\Sunil\APILearning\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb
+D:\Sunil\APILearning\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.genruntimeconfig.cache
